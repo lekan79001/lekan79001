@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lekan79001
-- 👀 I’m interested in ...Data science and Analytics
-- 🌱 I’m currently learning ...Phyton and SQL
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...Data science and Engeneering
+- 🌱 A Data expert
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ..seallekan10@gmail.com
 
 <!---
